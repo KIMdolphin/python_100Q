@@ -29,10 +29,10 @@
 #### 024 string.upper() string.capitalize() string.title()
 #### 025
 #### 026
-#### 027
+#### 027 dict(zip(name, score))
 #### 028
-#### 029
-#### 030
+#### 029 ord(아스키 코드 반환) chr(맞는 문자 반환) if data.isupper(): a:97 A:65
+#### 030 a.find(b)
 #### 031
 #### 032
 #### 033
