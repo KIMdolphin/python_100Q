@@ -26,7 +26,7 @@
 #### 021 set 개념 숙지 {} => dict
 #### 022
 #### 023
-#### 024
+#### 024 string.upper() string.capitalize() string.title()
 #### 025
 #### 026
 #### 027
