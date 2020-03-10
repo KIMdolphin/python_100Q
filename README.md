@@ -18,7 +18,7 @@
 #### 013
 #### 014
 #### 015
-#### 016 print(n[::-1]), reverse()-반환x, 기존 데이터 변경x & reversed()-반환, 기존 데이터 변경
+#### 016 print(n[::-1]), reverse()-반환x, 기존 데이터 변경o & reversed()-반환, 기존 데이터 변경x
 #### 017
 #### 018 list(map(int, input().split()))
 #### 019
@@ -33,15 +33,15 @@
 #### 028
 #### 029 ord(아스키 코드 반환) chr(맞는 문자 반환) if data.isupper(): a:97 A:65
 #### 030 a.find(b)
-#### 031
+#### 031 https://wiki.python.org/moin/TimeComplexity
 #### 032
-#### 033
-#### 034
-#### 035
-#### 036
+#### 033 list(reversed(listname))과 같은 형식으로 사용합니다. 
+#### 034 l != sorted(l) sorted 리턴o, 기존 데이터 변경x && sort 리턴x, 기존 데이터 변경o
+#### 035 함수를 반환할 수 있음
+#### 036 
 #### 037
 #### 038
-#### 039
+#### 039 a = a.replace('q', 'e', 바꿀 횟수) 이며 replace는 문자열만 사용할 수 있다. n.replace("q", "e")을 쓰면 해당 문자 다 교
 #### 040
 #### 041
 #### 042
